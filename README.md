@@ -1,4 +1,4 @@
-# Prime Number Verification Application - Documentation
+# ✓ Prime Number Verification Application - Documentation
 
 ## Introduction
 
